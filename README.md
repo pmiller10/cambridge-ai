@@ -29,4 +29,5 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |4.25.17|[Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695)||
 |5.4.17|[Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258)||
 |5.9.17|[Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)|[code](https://github.com/igul222/improved_wgan_training)|
-|__5.16.17__|__Not Sure__||
+|__5.16.17__|[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)|[modular_rl](https://github.com/joschu/modular_rl)|
+|5.23.17|[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)|[modular_rl](https://github.com/joschu/modular_rl)|
