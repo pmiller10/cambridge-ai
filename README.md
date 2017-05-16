@@ -7,6 +7,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 * [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088)
 * [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908)
 * [Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)
+* [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499v2)
+* [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
 
 
 ## Schedule:
