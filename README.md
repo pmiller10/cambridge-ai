@@ -5,7 +5,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 ## Suggested Papers:
 
 * [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088)
-* [Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908)
 * [Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499v2)
 * [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
@@ -32,5 +31,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |4.25.17|[Strategic Attentive Writer for Learning Macro-Actions](https://arxiv.org/abs/1606.04695)||
 |5.4.17|[Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258)||
 |5.9.17|[Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)|[code](https://github.com/igul222/improved_wgan_training)|
-|__5.16.17__|[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)|[modular_rl](https://github.com/joschu/modular_rl)|
-|5.23.17|[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)|[modular_rl](https://github.com/joschu/modular_rl)|
+|5.16.17|[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)|[modular_rl](https://github.com/joschu/modular_rl)|
+|__5.23.17__|[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908)||
+|5.30.17|[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)|[modular_rl](https://github.com/joschu/modular_rl)|
