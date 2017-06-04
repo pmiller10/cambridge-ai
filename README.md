@@ -32,5 +32,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |5.4.17|[Using Fast Weights to Attend to the Recent Past](https://arxiv.org/abs/1610.06258)||
 |5.9.17|[Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)|[code](https://github.com/igul222/improved_wgan_training)|
 |5.16.17|[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)|[modular_rl](https://github.com/joschu/modular_rl)|
-|__5.23.17__|[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908)||
+|5.23.17|[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908)||
 |5.30.17|[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)|[modular_rl](https://github.com/joschu/modular_rl)|
+|__6.6.17__|[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610)|[artistic video](https://github.com/manuelruder/artistic-videos)|
