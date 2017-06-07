@@ -34,4 +34,5 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |5.16.17|[Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)|[modular_rl](https://github.com/joschu/modular_rl)|
 |5.23.17|[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908)||
 |5.30.17|[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)|[modular_rl](https://github.com/joschu/modular_rl)|
-|__6.6.17__|[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610)|[artistic video](https://github.com/manuelruder/artistic-videos)|
+|6.6.17|[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610)|[artistic video](https://github.com/manuelruder/artistic-videos)|
+|__6.13.17__|[Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)|[harvardnlp](https://github.com/harvardnlp/lie-access-memory)|
