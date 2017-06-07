@@ -1,13 +1,13 @@
 # SIPB Deep Learning Group
-The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next meeting date and paper is in the schedule in bold.
+The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next meeting date and paper is in the schedule in bold. If you have any papers you'd like to discuss, please either make a pull request, or send an email to the group and we'll add it. Papers with implementations available are strongly preferred.
 
 
 ## Suggested Papers:
 
-* [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088)
-* [Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499v2)
 * [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
+* [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)
+* [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088)
 
 
 ## Schedule:
