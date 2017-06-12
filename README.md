@@ -8,6 +8,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 * [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
 * [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)
 * [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088)
+* [Neural Episodic Control](https://arxiv.org/abs/1703.01988)
+* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343) (with [follow-up](https://arxiv.org/abs/1703.00522))
 
 
 ## Schedule:
