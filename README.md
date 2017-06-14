@@ -8,7 +8,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 * [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
 * [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)
 * [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088)
-* [Neural Episodic Control](https://arxiv.org/abs/1703.01988)
 * [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343) (with [follow-up](https://arxiv.org/abs/1703.00522))
 
 
@@ -37,4 +36,5 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |5.23.17|[Emergence of Grounded Compositional Language in Multi-Agent Populations](https://arxiv.org/abs/1703.04908)||
 |5.30.17|[High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)|[modular_rl](https://github.com/joschu/modular_rl)|
 |6.6.17|[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610)|[artistic video](https://github.com/manuelruder/artistic-videos)|
-|__6.13.17__|[Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)|[harvardnlp](https://github.com/harvardnlp/lie-access-memory)|
+|6.13.17|[Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)|[harvardnlp](https://github.com/harvardnlp/lie-access-memory)|
+|__6.20.17__|[Neural Episodic Control](https://arxiv.org/abs/1703.01988)|[PFCM](https://github.com/PFCM/neural-episodic-control)|
