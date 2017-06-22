@@ -8,8 +8,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 * [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
 * [Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/abs/1706.01399)
 * [Visual Attribute Transfer through Deep Image Analogy](https://arxiv.org/abs/1705.01088)
-* [Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343) (with [follow-up](https://arxiv.org/abs/1703.00522))
-* [A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427) and [implementation](https://github.com/Alan-Lee123/relation-network)
 * [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
 
 
@@ -40,3 +38,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |6.6.17|[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610)|[artistic video](https://github.com/manuelruder/artistic-videos)|
 |6.13.17|[Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)|[harvardnlp](https://github.com/harvardnlp/lie-access-memory)|
 |__6.20.17__|[Neural Episodic Control](https://arxiv.org/abs/1703.01988)|[PFCM](https://github.com/PFCM/neural-episodic-control)|
+|6.27.17|[Speaker diarization using deep neural network embeddings](http://www.danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)||
+|7.4.17|[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)|[relation-network](https://github.com/Alan-Lee123/relation-network)|
+|7.4.17|[Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343) & [follow-up](https://arxiv.org/abs/1703.00522)|[dni.pytorch](https://github.com/andrewliao11/dni.pytorch)|
