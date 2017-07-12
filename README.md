@@ -38,6 +38,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |6.6.17|[Artistic style transfer for videos](https://arxiv.org/abs/1604.08610)|[artistic video](https://github.com/manuelruder/artistic-videos)|
 |6.13.17|[Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)|[harvardnlp](https://github.com/harvardnlp/lie-access-memory)|
 |6.20.17|[Neural Episodic Control](https://arxiv.org/abs/1703.01988)|[PFCM](https://github.com/PFCM/neural-episodic-control)|
-|__7.11.17__|[Speaker diarization using deep neural network embeddings](http://www.danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)||
-|7.18.17|[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)|[relation-network](https://github.com/Alan-Lee123/relation-network)|
+|7.11.17|[Speaker diarization using deep neural network embeddings](http://www.danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)||
+|__7.18.17__|[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)|[relation-network](https://github.com/Alan-Lee123/relation-network)|
 |7.25.17|[Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343) & [follow-up](https://arxiv.org/abs/1703.00522)|[dni.pytorch](https://github.com/andrewliao11/dni.pytorch)|
+|8.1.17|[Full-Capacity Unitary Recurrent Neural Networks](https://arxiv.org/pdf/1611.00035.pdf)|[complex_RNN](https://github.com/amarshah/complex_RNN), [urnn](https://github.com/stwisdom/urnn)|
+|8.8.17|(Provisional) [Structured Black Box Variational Inference for Latent Time Series Models](https://arxiv.org/pdf/1707.01069v1.pdf)|||
