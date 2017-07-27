@@ -10,6 +10,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 * [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499v2)
 * [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
 * [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
+*[Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513)
 
 
 ## Schedule:
