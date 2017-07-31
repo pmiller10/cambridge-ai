@@ -7,10 +7,9 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 * [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389)
 * [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 * [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502)
-* [WaveNet: A Generative Model for Raw Audio](https://arxiv.org/abs/1609.03499v2)
-* [Deep speech 2: End-to-end speech recognition in english and mandarin](https://arxiv.org/abs/1512.02595)
 * [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
-*[Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513)
+* [Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513)
+* [Hyper Networks](https://arxiv.org/abs/1609.09106) ([implementation](http://blog.otoro.net/2016/09/28/hyper-networks/))
 
 
 ## Schedule:
