@@ -1,5 +1,5 @@
 # SIPB Deep Learning Group
-The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next meeting date and paper is in the schedule in bold. If you have any papers you'd like to discuss, please either make a pull request, or send an email to the group and we'll add it. Papers with implementations available are strongly preferred.
+The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you have any papers you'd like to discuss, please either make a pull request, or send an email to the group and we'll add it. Papers with implementations available are strongly preferred.
 
 
 ## Suggested Papers:
@@ -9,7 +9,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 * [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502)
 * [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
 * [Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513)
-* [Hyper Networks](https://arxiv.org/abs/1609.09106) ([implementation](http://blog.otoro.net/2016/09/28/hyper-networks/))
 
 
 ## Schedule:
@@ -40,7 +39,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group. The next
 |6.13.17|[Lie-Access Neural Turing Machines](https://arxiv.org/abs/1611.02854)|[harvardnlp](https://github.com/harvardnlp/lie-access-memory)|
 |6.20.17|[Neural Episodic Control](https://arxiv.org/abs/1703.01988)|[PFCM](https://github.com/PFCM/neural-episodic-control)|
 |7.11.17|[Speaker diarization using deep neural network embeddings](http://www.danielpovey.com/files/2017_icassp_diarization_embeddings.pdf)||
-|__7.18.17__|[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)|[relation-network](https://github.com/Alan-Lee123/relation-network)|
+|7.18.17|[A simple neural network module for relational reasoning](https://arxiv.org/abs/1706.01427)|[relation-network](https://github.com/Alan-Lee123/relation-network)|
 |7.25.17|[Decoupled Neural Interfaces using Synthetic Gradients](https://arxiv.org/abs/1608.05343) & [follow-up](https://arxiv.org/abs/1703.00522)|[dni.pytorch](https://github.com/andrewliao11/dni.pytorch)|
 |8.1.17|[Full-Capacity Unitary Recurrent Neural Networks](https://arxiv.org/pdf/1611.00035.pdf)|[complex_RNN](https://github.com/amarshah/complex_RNN), [urnn](https://github.com/stwisdom/urnn)|
-|8.8.17|(Provisional) [Structured Black Box Variational Inference for Latent Time Series Models](https://arxiv.org/pdf/1707.01069v1.pdf)|||
+|8.8.17|[Hyper Networks](https://arxiv.org/abs/1609.09106)|[otoro blog](http://blog.otoro.net/2016/09/28/hyper-networks/)|
