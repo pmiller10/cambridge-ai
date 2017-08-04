@@ -9,6 +9,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502)
 * [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
 * [Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513)
+* [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) ([Implementation](https://github.com/bowenbaker/metaqnn))
+    * Accompanying paper: [Practical Neural Network Performance Prediction for Early Stopping](https://arxiv.org/pdf/1705.10823.pdf)
 
 
 ## Schedule:
