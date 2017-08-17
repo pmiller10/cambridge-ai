@@ -12,7 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
     * Accompanying paper: [Practical Neural Network Performance Prediction for Early Stopping](https://arxiv.org/pdf/1705.10823.pdf)
 * [Toward an Integration of Deep Learning and Neuroscience](http://journal.frontiersin.org/article/10.3389/fncom.2016.00094/full) (Potential companion paper to "Neuroscience-inspired AI")
 * [Label, Segment, Featurize: a cross domain framework for prediction engineering](http://dai.lids.mit.edu/Pred_eng.pdf)
-
+* [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627) and [supplement](http://web.mit.edu/ellisk/www/graphicsProgramSupplement.pdf).
 
 ## Schedule:
 
