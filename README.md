@@ -47,7 +47,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |8.1.17|[Full-Capacity Unitary Recurrent Neural Networks](https://arxiv.org/pdf/1611.00035.pdf)|[complex_RNN](https://github.com/amarshah/complex_RNN), [urnn](https://github.com/stwisdom/urnn)|
 |8.8.17|[Hyper Networks](https://arxiv.org/abs/1609.09106)|[otoro blog](http://blog.otoro.net/2016/09/28/hyper-networks/)|
 |8.15.17|[Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences](https://arxiv.org/abs/1610.09513)|[plstm](https://github.com/dannyneil/public_plstm)|
-|__8.22.17__|[Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)|[metaqnn](https://github.com/bowenbaker/metaqnn)|
+|8.22.17|[Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167)|[metaqnn](https://github.com/bowenbaker/metaqnn)|
 |8.29.17|[Deep Transfer Learning with Joint Adaptation Networks](https://arxiv.org/abs/1605.06636)|jmmd.{[cpp](https://github.com/thuml/transfer-caffe/blob/41455ac37f11c18fb19509c93b381bcd51ded68e/src/caffe/layers/jmmd_layer.cpp),[hpp](https://github.com/thuml/transfer-caffe/blob/41455ac37f11c18fb19509c93b381bcd51ded68e/src/caffe/layers/jmmd_layer.cpp)}|
 |9.5.17|[Recurrent Dropout Without Memory Loss](https://arxiv.org/abs/1603.05118)|[rnn_cell_mulint_modern.py](https://github.com/NickShahML/tensorflow_with_latest_papers/blob/master/rnn_cell_mulint_modern.py#L141)|
 |9.12.17|[Neuroscience-inspired AI](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)||
+|9.19.17|[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)|[cbfinn](https://github.com/cbfinn)|
