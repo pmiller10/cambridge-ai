@@ -52,4 +52,5 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |9.5.17|[Recurrent Dropout Without Memory Loss](https://arxiv.org/abs/1603.05118)|[rnn_cell_mulint_modern.py](https://github.com/NickShahML/tensorflow_with_latest_papers/blob/master/rnn_cell_mulint_modern.py#L141)|
 |9.12.17|[Neuroscience-inspired AI](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)||
 |9.19.17|[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)|[cbfinn](https://github.com/cbfinn)|
-|__9.19.26__|[Variational Boosting: Iteratively Refining Posterior Approximations](https://arxiv.org/abs/1611.06585)|[vboost](https://github.com/andymiller/vboost)|
+|9.26.17|[Variational Boosting: Iteratively Refining Posterior Approximations](https://arxiv.org/abs/1611.06585)|[vboost](https://github.com/andymiller/vboost)|
+|__10.9.17__|[Zero-Shot Learning Through Cross-Modal Transfer](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)|[zslearning](https://github.com/mganjoo/zslearning)|
