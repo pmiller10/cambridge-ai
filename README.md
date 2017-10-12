@@ -53,4 +53,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |9.12.17|[Neuroscience-inspired AI](http://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)||
 |9.19.17|[Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)|[cbfinn](https://github.com/cbfinn)|
 |9.26.17|[Variational Boosting: Iteratively Refining Posterior Approximations](https://arxiv.org/abs/1611.06585)|[vboost](https://github.com/andymiller/vboost)|
-|__10.9.17__|[Zero-Shot Learning Through Cross-Modal Transfer](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)|[zslearning](https://github.com/mganjoo/zslearning)|
+|10.10.17|[Zero-Shot Learning Through Cross-Modal Transfer](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)|[zslearning](https://github.com/mganjoo/zslearning)|
+|10.17.17|[Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.html)|[ntm-meta-learning](https://github.com/ywatanabex/ntm-meta-learning)|
+|10.24.17|[Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039)|[poincare_embeddings](https://github.com/nishnik/poincare_embeddings)|
+|10.31.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition)](https://github.com/openai/multiagent-competition)|
