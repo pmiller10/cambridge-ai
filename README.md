@@ -56,4 +56,4 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |10.10.17|[Zero-Shot Learning Through Cross-Modal Transfer](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)|[zslearning](https://github.com/mganjoo/zslearning)|
 |10.17.17|[Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.html)|[ntm-meta-learning](https://github.com/ywatanabex/ntm-meta-learning)|
 |10.24.17|[Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039)|[poincare_embeddings](https://github.com/nishnik/poincare_embeddings)|
-|10.31.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition)](https://github.com/openai/multiagent-competition)|
+|10.31.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition](https://github.com/openai/multiagent-competition)|
