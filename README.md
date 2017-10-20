@@ -8,6 +8,9 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 * [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502)
 * [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
+
+* [Improving speech recognition by revising gated recurrent units](https://arxiv.org/abs/1710.00641)
+* [A systematic study of the class imbalance problem in convolutional neural network](http://arxiv.org/abs/1710.05381)
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) ([Implementation](https://github.com/bowenbaker/metaqnn))
     * Accompanying paper: [Practical Neural Network Performance Prediction for Early Stopping](https://arxiv.org/pdf/1705.10823.pdf)
 * [Toward an Integration of Deep Learning and Neuroscience](http://journal.frontiersin.org/article/10.3389/fncom.2016.00094/full) (Potential companion paper to "Neuroscience-inspired AI")
