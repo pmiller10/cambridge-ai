@@ -17,6 +17,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Label, Segment, Featurize: a cross domain framework for prediction engineering](http://dai.lids.mit.edu/Pred_eng.pdf)
 * [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627) and [supplement](http://web.mit.edu/ellisk/www/graphicsProgramSupplement.pdf).
 * [Information Dropout: Learning Optimal Representations Through Noisy Computation](https://arxiv.org/pdf/1611.01353.pdf). [(Implementation)](https://github.com/ucla-vision/information-dropout).
+* [On the emergence of invariance and disentangling in deep representations](https://arxiv.org/pdf/1706.01350.pdf).
 * [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://arxiv.org/abs/1607.01426). [(Implementation)](https://rajarshd.github.io/ChainsofReasoning/).
 
 ## Schedule:
@@ -63,3 +64,4 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |10.24.17|[Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039)|[poincare_embeddings](https://github.com/nishnik/poincare_embeddings)|
 |10.31.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition](https://github.com/openai/multiagent-competition)|
 |11.7.17|[Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.html)|[ntm-meta-learning](https://github.com/ywatanabex/ntm-meta-learning)|
+|11.14.17|[Mastering the game of Go without human knowledge](https://deepmind.com/documents/119/agz_unformatted_nature.pdf) ||
