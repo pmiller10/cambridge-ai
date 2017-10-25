@@ -19,6 +19,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Information Dropout: Learning Optimal Representations Through Noisy Computation](https://arxiv.org/pdf/1611.01353.pdf). [(Implementation)](https://github.com/ucla-vision/information-dropout).
 * [On the emergence of invariance and disentangling in deep representations](https://arxiv.org/pdf/1706.01350.pdf).
 * [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://arxiv.org/abs/1607.01426). [(Implementation)](https://rajarshd.github.io/ChainsofReasoning/).
+* [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/pdf/1702.08165.pdf). ([Blog](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/) [Code](https://github.com/haarnoja/softqlearning) [Videos](https://sites.google.com/view/softqlearning/home))
 
 ## Schedule:
 
