@@ -62,7 +62,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |9.26.17|[Variational Boosting: Iteratively Refining Posterior Approximations](https://arxiv.org/abs/1611.06585)|[vboost](https://github.com/andymiller/vboost)|
 |10.10.17|[Zero-Shot Learning Through Cross-Modal Transfer](http://papers.nips.cc/paper/5027-zero-shot-learning-through-cross-modal-transfer.pdf)|[zslearning](https://github.com/mganjoo/zslearning)|
 |10.17.17|[What does Attention in Neural Machine Translation Pay Attention to?](https://arxiv.org/abs/1710.03348v1)||
-|__10.24.17__|[Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039)|[poincare_embeddings](https://github.com/nishnik/poincare_embeddings)|
-|10.31.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition](https://github.com/openai/multiagent-competition)|
+|10.24.17|[Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039)|[poincare_embeddings](https://github.com/nishnik/poincare_embeddings)|
 |11.7.17|[Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.html)|[ntm-meta-learning](https://github.com/ywatanabex/ntm-meta-learning)|
 |11.14.17|[Mastering the game of Go without human knowledge](https://deepmind.com/documents/119/agz_unformatted_nature.pdf) ||
+|11.28.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition](https://github.com/openai/multiagent-competition)|
