@@ -20,6 +20,9 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [On the emergence of invariance and disentangling in deep representations](https://arxiv.org/pdf/1706.01350.pdf).
 * [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://arxiv.org/abs/1607.01426). [(Implementation)](https://rajarshd.github.io/ChainsofReasoning/).
 * [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/pdf/1702.08165.pdf). ([Blog](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/), [Code](https://github.com/haarnoja/softqlearning), [Videos](https://sites.google.com/view/softqlearning/home))
+* [Meta-Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf). [Implementation](https://github.com/openai/mlsh)
+* [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/pdf/1512.02479.pdf).
+* [Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
 
 ## Schedule:
 
@@ -66,3 +69,5 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |11.7.17|[Meta-Learning with Memory-Augmented Neural Networks](http://proceedings.mlr.press/v48/santoro16.html)|[ntm-meta-learning](https://github.com/ywatanabex/ntm-meta-learning)|
 |11.14.17|[Mastering the game of Go without human knowledge](https://deepmind.com/documents/119/agz_unformatted_nature.pdf) ||
 |11.28.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition](https://github.com/openai/multiagent-competition)|
+|12.5.17|[Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012)|[snn4hrl](https://github.com/florensacc/snn4hrl)|
+|12.12.17|[Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://arxiv.org/abs/1607.01426) | [(ChainsofReasoning)](https://rajarshd.github.io/ChainsofReasoning/)
