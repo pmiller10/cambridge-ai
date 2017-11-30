@@ -23,6 +23,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Meta-Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf). [Implementation](https://github.com/openai/mlsh)
 * [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/pdf/1512.02479.pdf).
 * [Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
+* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v2)
+* [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
 
 ## Schedule:
 
