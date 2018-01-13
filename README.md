@@ -73,3 +73,5 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |11.28.17|[Emergent Complexity via Multi-Agent Competition](https://arxiv.org/abs/1710.03748) [(blog post)](https://blog.openai.com/competitive-self-play/?)|[multiagent-competition](https://github.com/openai/multiagent-competition)|
 |12.5.17|[Stochastic Neural Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1704.03012)|[snn4hrl](https://github.com/florensacc/snn4hrl)|
 |12.12.17|[Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://arxiv.org/abs/1607.01426) | [(ChainsofReasoning)](https://rajarshd.github.io/ChainsofReasoning/)
+|1.9.18|[Intro to Coq](http://adam.chlipala.net/cpdt/) |
+|1.16.18|[Go for a Walk and Arrive at the Answer](https://arxiv.org/abs/1711.05851), [RelNet: End-to-End Modeling of Entities & Relations](https://arxiv.org/abs/1706.07179)|
