@@ -25,6 +25,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v2)
 * [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
+* [The Case for Learned Index Structures](https://arxiv.org/pdf/1712.01208.pdf)
 
 ## Schedule:
 
