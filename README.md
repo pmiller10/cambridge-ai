@@ -16,13 +16,11 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627) and [supplement](http://web.mit.edu/ellisk/www/graphicsProgramSupplement.pdf).
 * [Information Dropout: Learning Optimal Representations Through Noisy Computation](https://arxiv.org/pdf/1611.01353.pdf). [(Implementation)](https://github.com/ucla-vision/information-dropout).
 * [On the emergence of invariance and disentangling in deep representations](https://arxiv.org/pdf/1706.01350.pdf).
-* [Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://arxiv.org/abs/1607.01426). [(Implementation)](https://rajarshd.github.io/ChainsofReasoning/).
 * [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/pdf/1702.08165.pdf). ([Blog](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/), [Code](https://github.com/haarnoja/softqlearning), [Videos](https://sites.google.com/view/softqlearning/home))
 * [Meta-Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf). [Implementation](https://github.com/openai/mlsh)
 * [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/pdf/1512.02479.pdf).
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v2)
 * [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
-* [Visualizing The Loss Landscape Of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
 
 ## Schedule:
 
@@ -73,3 +71,4 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |12.12.17|[Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks](https://arxiv.org/abs/1607.01426) | [(ChainsofReasoning)](https://rajarshd.github.io/ChainsofReasoning/)
 |1.9.18|[Intro to Coq](http://adam.chlipala.net/cpdt/) |
 |1.16.18|[Go for a Walk and Arrive at the Answer](https://arxiv.org/abs/1711.05851), [RelNet: End-to-End Modeling of Entities & Relations](https://arxiv.org/abs/1706.07179)|
+|1.23.18|[Visualizing The Loss Landscape Of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)|
