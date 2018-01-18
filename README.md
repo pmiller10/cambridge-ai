@@ -4,8 +4,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 ## Suggested Papers:
 
-* [SCAN: Learning Abstract Hierarchical Compositional Visual Concepts](https://arxiv.org/abs/1707.03389)
-* [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 * [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502)
 * [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
 
@@ -22,9 +20,9 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/pdf/1702.08165.pdf). ([Blog](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/), [Code](https://github.com/haarnoja/softqlearning), [Videos](https://sites.google.com/view/softqlearning/home))
 * [Meta-Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf). [Implementation](https://github.com/openai/mlsh)
 * [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/pdf/1512.02479.pdf).
-* [Wavenet](https://arxiv.org/pdf/1609.03499.pdf)
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v2)
 * [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
+* [Visualizing The Loss Landscape Of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)
 
 ## Schedule:
 
