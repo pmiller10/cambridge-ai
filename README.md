@@ -4,9 +4,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 ## Suggested Papers:
 
-* [Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog](https://arxiv.org/abs/1706.08502)
-* [Visual Interaction Networks](https://arxiv.org/abs/1706.01433)
-
 * [Improving speech recognition by revising gated recurrent units](https://arxiv.org/abs/1710.00641)
 * [A systematic study of the class imbalance problem in convolutional neural network](http://arxiv.org/abs/1710.05381)
 * [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) ([Implementation](https://github.com/bowenbaker/metaqnn))
