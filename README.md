@@ -19,6 +19,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v2)
 * [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
 * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
+* [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
 
 ## Schedule:
 
