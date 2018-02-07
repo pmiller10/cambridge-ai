@@ -71,3 +71,4 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |1.16.18|[Go for a Walk and Arrive at the Answer](https://arxiv.org/abs/1711.05851), [RelNet: End-to-End Modeling of Entities & Relations](https://arxiv.org/abs/1706.07179)|
 |1.23.18|[Visualizing The Loss Landscape Of Neural Nets](https://arxiv.org/pdf/1712.09913.pdf)|
 |1.30.18|[The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)|
+|2.6.18|[Deep vs. Shallow Networks: An Approximation Theory Perspective](https://arxiv.org/abs/1608.03287)|
