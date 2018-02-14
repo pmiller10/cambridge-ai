@@ -75,3 +75,4 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |1.30.18|[The Case for Learned Index Structures](https://arxiv.org/abs/1712.01208)|
 |2.6.18|[Deep vs. Shallow Networks: An Approximation Theory Perspective](https://arxiv.org/abs/1608.03287)|
 |2.13.18|[Nested LSTMs](https://arxiv.org/abs/1801.10308)|[Nested-LSTM](https://github.com/titu1994/Nested-LSTM)|
+|2.20.18|[Information Dropout](https://arxiv.org/pdf/1611.01353.pdf)|[InformationDropout](https://github.com/coventry/InformationDropout/blob/master/information_dropout.py), [official implementation](https://github.com/ucla-vision/information-dropout)|
