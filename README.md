@@ -21,6 +21,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 * [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
 * [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
 * [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485)
+* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf) ([Implementation](https://github.com/jwyang/faster-rcnn.pytorch))
+* [Learning to Optimize Neural Nets](https://arxiv.org/pdf/1703.00441.pdf)
 
 ## Schedule:
 
