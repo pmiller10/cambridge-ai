@@ -4,6 +4,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 ## Suggested Papers:
 
+* [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/pdf/1804.08328.pdf)
+
 
 ## Schedule:
 
