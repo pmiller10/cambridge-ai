@@ -80,8 +80,10 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |2.20.18|[Information Dropout](https://arxiv.org/pdf/1611.01353.pdf)|[InformationDropout](https://github.com/coventry/InformationDropout/blob/master/information_dropout.py), [official implementation](https://github.com/ucla-vision/information-dropout)|
 |2.27.18|[AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485)|[StackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2)|
 |3.6.18|[Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198)|[wikisum](https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/data_generators/wikisum), per [this gist](https://gist.github.com/peterjliu/f0dc9152a630520dc604c783db963aa7)|
+|3.20.18|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)|[tensor2tensor](https://github.com/tensorflow/tensor2tensor)|
+|3.27.18|[Faster R-CNN: Towards Real-Time Object,Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)||
 |4.3.18|[How Developers Iterate on Machine Learning Workflows](https://arxiv.org/abs/1803.10311)||
-|5.1.18|[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)||
+|4.24.18|[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)||
 |5.8.18|[Compositional Attention Networks for Machine Reasoning](https://arxiv.org/abs/1803.03067)|[stanfordnlp](https://github.com/stanfordnlp/mac-network)|
 |5.15.18|TensorFlow Overview|[r1.8](https://github.com/tensorflow/tensorflow/tree/r1.8)|
 |5.22.18|[Synthesizing Programs for Images using Reinforced Adversarial Learning](https://arxiv.org/abs/1804.01118)||
