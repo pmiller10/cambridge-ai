@@ -80,6 +80,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |2.20.18|[Information Dropout](https://arxiv.org/pdf/1611.01353.pdf)|[InformationDropout](https://github.com/coventry/InformationDropout/blob/master/information_dropout.py), [official implementation](https://github.com/ucla-vision/information-dropout)|
 |2.27.18|[AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485)|[StackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2)|
 |3.6.18|[Generating Wikipedia by Summarizing Long Sequences](https://arxiv.org/abs/1801.10198)|[wikisum](https://github.com/tensorflow/tensor2tensor/tree/master/tensor2tensor/data_generators/wikisum), per [this gist](https://gist.github.com/peterjliu/f0dc9152a630520dc604c783db963aa7)|
+|5.22.18|[Synthesizing Programs for Images using Reinforced Adversarial Learning](https://arxiv.org/abs/1804.01118)||
+|5.29.18|[ML beyond Curve Fitting](http://www.inference.vc/untitled/)||
 |6.5.18|[Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/abs/1705.08821)|[AMLab](https://github.com/AMLab-Amsterdam/CEVAE)|
 |6.12.18|[On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/pdf/1802.04443.pdf)||
 |6.19.18|[Associative Compression Networks for Representation Learning](https://arxiv.org/abs/1804.02476)||
