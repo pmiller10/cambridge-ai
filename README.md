@@ -4,25 +4,6 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 ## Suggested Papers:
 
-* [Improving speech recognition by revising gated recurrent units](https://arxiv.org/abs/1710.00641)
-* [A systematic study of the class imbalance problem in convolutional neural network](http://arxiv.org/abs/1710.05381)
-* [Designing Neural Network Architectures using Reinforcement Learning](https://arxiv.org/abs/1611.02167) ([Implementation](https://github.com/bowenbaker/metaqnn))
-    * Accompanying paper: [Practical Neural Network Performance Prediction for Early Stopping](https://arxiv.org/pdf/1705.10823.pdf)
-* [Toward an Integration of Deep Learning and Neuroscience](http://journal.frontiersin.org/article/10.3389/fncom.2016.00094/full) (Potential companion paper to "Neuroscience-inspired AI")
-* [Label, Segment, Featurize: a cross domain framework for prediction engineering](http://dai.lids.mit.edu/Pred_eng.pdf)
-* [Learning to Infer Graphics Programs from Hand-Drawn Images](https://arxiv.org/abs/1707.09627) and [supplement](http://web.mit.edu/ellisk/www/graphicsProgramSupplement.pdf).
-* [Information Dropout: Learning Optimal Representations Through Noisy Computation](https://arxiv.org/pdf/1611.01353.pdf). [(Implementation)](https://github.com/ucla-vision/information-dropout).
-* [On the emergence of invariance and disentangling in deep representations](https://arxiv.org/pdf/1706.01350.pdf).
-* [Reinforcement Learning with Deep Energy-Based Policies](https://arxiv.org/pdf/1702.08165.pdf). ([Blog](http://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/), [Code](https://github.com/haarnoja/softqlearning), [Videos](https://sites.google.com/view/softqlearning/home))
-* [Meta-Learning Shared Hierarchies](https://arxiv.org/pdf/1710.09767.pdf). [Implementation](https://github.com/openai/mlsh)
-* [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/pdf/1512.02479.pdf).
-* [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829v2)
-* [Opening the black box of Deep Neural Networks via Information](https://arxiv.org/pdf/1703.00810.pdf)
-* [Unifying Count-Based Exploration and Intrinsic Motivation](https://arxiv.org/pdf/1606.01868.pdf)
-* [Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
-* [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485)
-* [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf) ([Implementation](https://github.com/jwyang/faster-rcnn.pytorch))
-* [Learning to Optimize Neural Nets](https://arxiv.org/pdf/1703.00441.pdf)
 
 ## Schedule:
 
