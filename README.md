@@ -12,7 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
-|7.10.18|[Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)||
+|7.24.18|[Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf)||
 |6.26.18|[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|[openai](https://github.com/openai/finetune-transformer-lm)|
 |6.19.18|[Associative Compression Networks for Representation Learning](https://arxiv.org/abs/1804.02476)||
 |6.12.18|[On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/pdf/1802.04443.pdf)||
