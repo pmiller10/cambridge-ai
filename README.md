@@ -12,7 +12,9 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
-|7.31.18|[ Measuring Abstract Reasoning in Neural Networks](https://arxiv.org/abs/1807.04225)||
+|8.7.18|[Neural Arithmetic Logic Units](https://arxiv.org/abs/1808.00508)|[gautam1858](https://github.com/gautam1858/Neural-Arithmetic-Logic-Units)|
+|8.7.18|[Neural Scene Representation and Rendering](https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)||
+|7.31.18|[Measuring Abstract Reasoning in Neural Networks](https://arxiv.org/abs/1807.04225)||
 |6.26.18|[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|[openai](https://github.com/openai/finetune-transformer-lm)|
 |6.19.18|[Associative Compression Networks for Representation Learning](https://arxiv.org/abs/1804.02476)||
 |6.12.18|[On Characterizing the Capacity of Neural Networks using Algebraic Topology](https://arxiv.org/pdf/1802.04443.pdf)||
