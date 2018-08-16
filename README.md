@@ -12,7 +12,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
-|8.7.18|[Neural Arithmetic Logic Units](https://arxiv.org/abs/1808.00508)|[gautam1858](https://github.com/gautam1858/Neural-Arithmetic-Logic-Units)|
+|8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
+|8.14.18|[Neural Arithmetic Logic Units](https://arxiv.org/abs/1808.00508)|[gautam1858](https://github.com/gautam1858/Neural-Arithmetic-Logic-Units)|
 |8.7.18|[Neural Scene Representation and Rendering](https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)||
 |7.31.18|[Measuring Abstract Reasoning in Neural Networks](https://arxiv.org/abs/1807.04225)||
 |6.26.18|[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)|[openai](https://github.com/openai/finetune-transformer-lm)|
