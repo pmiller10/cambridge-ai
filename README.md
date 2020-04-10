@@ -31,6 +31,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |10.24.19|[N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)||
 |10.17.19|[Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/abs/1910.01007)||
 |10.10.19|[Adversarial Robustness as a Prior for Learned Representations](https://arxiv.org/abs/1906.00945)|[MadryLab](https://github.com/MadryLab/robust_representations)|
+|10.3.19|[Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks](https://arxiv.org/abs/1805.12076)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
