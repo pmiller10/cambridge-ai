@@ -26,6 +26,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |12.5.19|[On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)||
 |11.21.19|[Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)|[rajatvd](https://github.com/rajatvd/NTK)|
 |11.14.19|[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)||
+|11.7.19|[Learning to Predict Without Looking Ahead: World Models Without Forward Prediction](https://arxiv.org/abs/1910.13038)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
