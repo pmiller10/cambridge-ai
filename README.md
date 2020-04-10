@@ -18,6 +18,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |3.5.20|[Value-driven Hindsight Modelling](https://arxiv.org/abs/2002.08329)||
 |2.27.20|[Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)||
 |2.13.20|[Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)||
+|2.6.20|[Automated curricula through setter-solver interactions](https://arxiv.org/abs/1909.12892)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
