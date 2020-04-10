@@ -59,6 +59,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |11.6.18|[Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268)|[brain-research](https://github.com/brain-research/l2hmc)|
 |10.23.18|[A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)||
 |10.16.18|[MaskGAN: Better Text Generation via Filling in the ...](https://arxiv.org/abs/1801.07736)||
+|10.9.18|[Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)||
 
 
 |Filling backwards (from April 9, 2020 down)|||
