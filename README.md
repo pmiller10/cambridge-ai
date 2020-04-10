@@ -56,6 +56,9 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |11.27.18|[Embedding Logical Queries on Knowledge Graphs](https://arxiv.org/abs/1806.01445)|[williamleif](https://github.com/williamleif/graphqembed)|
 |11.20.18|[Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)|[openai](https://pathak22.github.io/large-scale-curiosity/)|
 |11.13.18|[Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding](https://arxiv.org/abs/1809.03702)|[nke001](https://github.com/nke001/sparse_attentive_backtracking_release)|
+|11.6.18|[Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268)|[brain-research](https://github.com/brain-research/l2hmc)|
+
+
 |Filling backwards (from April 9, 2020 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
