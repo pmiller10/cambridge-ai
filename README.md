@@ -66,10 +66,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |9.11.18|[The Variational Homoencoder: Learning to learn high capacity generative models from few examples](https://arxiv.org/abs/1807.08919)|[insperatum](https://github.com/insperatum/vhe)|
 |9.4.18|[Towards Conceptual Compression](https://arxiv.org/abs/1604.08772)|[geosada](https://github.com/geosada/ConvDRAW)|
 |8.28.18|[Vector-based navigation using grid-like representations in artificial agents](https://pdfs.semanticscholar.org/ae62/3c2364ce5eeaf16a7b11932908d1e413f179.pdf)|[deepmind](https://github.com/deepmind/grid-cells)|
-
-
-|Filling backwards (from April 9, 2020 down)|||
-| ------------- | ------------- |------------- |
+||break in maintaining this file; filled on April 10, 2020||
+| ------ | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
 |8.14.18|[Neural Arithmetic Logic Units](https://arxiv.org/abs/1808.00508)|[gautam1858](https://github.com/gautam1858/Neural-Arithmetic-Logic-Units)|
 |8.7.18|[Neural Scene Representation and Rendering](https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)||
