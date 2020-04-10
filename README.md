@@ -12,6 +12,9 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|4.9.20|[MEMO: A Deep Network for Flexible Combination of Episodic Memories](https://arxiv.org/abs/2001.10913)||
+|Filling backwards (from April 9 down)|||
+| ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
 |8.14.18|[Neural Arithmetic Logic Units](https://arxiv.org/abs/1808.00508)|[gautam1858](https://github.com/gautam1858/Neural-Arithmetic-Logic-Units)|
 |8.7.18|[Neural Scene Representation and Rendering](https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)||
