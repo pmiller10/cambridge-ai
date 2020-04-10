@@ -21,6 +21,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |2.6.20|[Automated curricula through setter-solver interactions](https://arxiv.org/abs/1909.12892)||
 |1.30.20|[Protein structure prediction ...](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25834)|[deepmind](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13)|
 |1.23.20|[Putting An End to End-to-End: Gradient-Isolated Learning of Representations](https://arxiv.org/abs/1905.11786)||
+|1.16.20|[Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
