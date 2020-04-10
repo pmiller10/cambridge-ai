@@ -43,6 +43,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |5.28.19|[AlgoNet: C^∞ Smooth Algorithmic Neural Networks](https://arxiv.org/abs/1905.06886)||
 |5.14.19|[Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)||
 |4.30.19|[Augmented Neural ODEs](https://arxiv.org/abs/1904.01681)||
+|4.9.19|[Wasserstein Dependency Measure for Representation Learning](https://arxiv.org/abs/1903.11780)||
 |Filling backwards (from April 9, 2020 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
