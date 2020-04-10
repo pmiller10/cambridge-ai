@@ -64,6 +64,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |9.25.18|[Artificial Intelligence - The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)||
 |9.18.18|[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)||
 |9.11.18|[The Variational Homoencoder: Learning to learn high capacity generative models from few examples](https://arxiv.org/abs/1807.08919)|[insperatum](https://github.com/insperatum/vhe)|
+|9.4.18|[Towards Conceptual Compression](https://arxiv.org/abs/1604.08772)|[geosada](https://github.com/geosada/ConvDRAW)|
 
 
 |Filling backwards (from April 9, 2020 down)|||
