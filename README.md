@@ -62,6 +62,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |10.9.18|[Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)||
 |10.2.18|[Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934)||
 |9.25.18|[Artificial Intelligence - The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)||
+|9.18.18|[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)||
 
 
 |Filling backwards (from April 9, 2020 down)|||
