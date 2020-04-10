@@ -52,8 +52,8 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |2.19.19|[Learning to Understand Goal Specifications by Modelling Reward](https://openreview.net/forum?id=H1xsSjC9Ym)||
 |1.29.19|[GamePad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)||
 |1.15.19|[Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb)||
-| ------------- | out of order insert |------------- |
 |12.4.18|[Optimizing Agent Behavior over Long Time Scales by Transporting Value](https://arxiv.org/abs/1810.06721)||
+|11.27.18|[Embedding Logical Queries on Knowledge Graphs](https://arxiv.org/abs/1806.01445)|[williamleif](https://github.com/williamleif/graphqembed)|
 |Filling backwards (from April 9, 2020 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
