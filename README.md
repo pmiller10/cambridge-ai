@@ -40,6 +40,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |break|switch from Tuesdays to Thursdays after the break||
 |6.11.19|[BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950)||
 |6.4.19|[Semantic Visual Localization](https://arxiv.org/abs/1712.05773)||
+|5.28.19|[AlgoNet: C∞ Smooth Algorithmic Neural Networks](https://arxiv.org/abs/1905.06886)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
