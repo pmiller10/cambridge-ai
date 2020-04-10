@@ -35,6 +35,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |9.26.19|[Image Transformer](https://arxiv.org/abs/1802.05751)||
 |9.19.19|[Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)||
 |9.18.19|[Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)||
+|9.12.19|[Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
