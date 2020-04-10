@@ -28,6 +28,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |11.14.19|[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)||
 |11.7.19|[Learning to Predict Without Looking Ahead: World Models Without Forward Prediction](https://arxiv.org/abs/1910.13038)||
 |10.31.19|[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)||
+|10.24.19|[N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
