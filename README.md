@@ -14,6 +14,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 | ------------- | ------------- |------------- |
 |4.9.20|[MEMO: A Deep Network for Flexible Combination of Episodic Memories](https://arxiv.org/abs/2001.10913)||
 |4.2.20|[Creating High Resolution Images with a Latent Adversarial Generator](https://arxiv.org/abs/2003.02365)||
+|3.26.20|[Invertible Residual Networks](https://arxiv.org/abs/1811.00995)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
