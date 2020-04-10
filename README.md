@@ -50,6 +50,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |3.12.19|[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)||
 |2.26.19|[Language Models are Unsupervised Multitask Learners](https://openai.com/blog/better-language-models/)|[openai](https://github.com/openai/gpt-2)|
 |2.19.19|[Learning to Understand Goal Specifications by Modelling Reward](https://openreview.net/forum?id=H1xsSjC9Ym)||
+|1.29.19|[GamePad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)||
 | ------------- | out of order insert |------------- |
 |12.4.18|[Optimizing Agent Behavior over Long Time Scales by Transporting Value](https://arxiv.org/abs/1810.06721)||
 |Filling backwards (from April 9, 2020 down)|||
