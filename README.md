@@ -12,6 +12,62 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|4.9.20|[MEMO: A Deep Network for Flexible Combination of Episodic Memories](https://arxiv.org/abs/2001.10913)||
+|4.2.20|[Creating High Resolution Images with a Latent Adversarial Generator](https://arxiv.org/abs/2003.02365)||
+|3.26.20|[Invertible Residual Networks](https://arxiv.org/abs/1811.00995)||
+|3.5.20|[Value-driven Hindsight Modelling](https://arxiv.org/abs/2002.08329)||
+|2.27.20|[Analyzing and Improving the Image Quality of StyleGAN](https://arxiv.org/abs/1912.04958)||
+|2.13.20|[Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)||
+|2.6.20|[Automated curricula through setter-solver interactions](https://arxiv.org/abs/1909.12892)||
+|1.30.20|[Protein structure prediction ...](https://onlinelibrary.wiley.com/doi/full/10.1002/prot.25834)|[deepmind](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13)|
+|1.23.20|[Putting An End to End-to-End: Gradient-Isolated Learning of Representations](https://arxiv.org/abs/1905.11786)||
+|1.16.20|[Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257)||
+|12.19.19|[Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)||
+|12.5.19|[On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)||
+|11.21.19|[Understanding the Neural Tangent Kernel](https://rajatvd.github.io/NTK/)|[rajatvd](https://github.com/rajatvd/NTK)|
+|11.14.19|[XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)||
+|11.7.19|[Learning to Predict Without Looking Ahead: World Models Without Forward Prediction](https://arxiv.org/abs/1910.13038)||
+|10.31.19|[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)||
+|10.24.19|[N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://arxiv.org/abs/1905.10437)||
+|10.17.19|[Unsupervised Doodling and Painting with Improved SPIRAL](https://arxiv.org/abs/1910.01007)||
+|10.10.19|[Adversarial Robustness as a Prior for Learned Representations](https://arxiv.org/abs/1906.00945)|[MadryLab](https://github.com/MadryLab/robust_representations)|
+|10.3.19|[Towards Understanding the Role of Over-Parametrization in Generalization of Neural Networks](https://arxiv.org/abs/1805.12076)||
+|9.26.19|[Image Transformer](https://arxiv.org/abs/1802.05751)||
+|9.19.19|[Generating Diverse High-Fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446)||
+|9.12.19|[Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)||
+|9.5.19|[Neural Text Generation with Unlikelihood Training](https://arxiv.org/abs/1908.04319)||
+|8.29.19|[Learning Representations by Maximizing Mutual Information Across Views](https://arxiv.org/abs/1906.00910)||
+|break|switch from Tuesdays to Thursdays after the break||
+|6.11.19|[BERT Rediscovers the Classical NLP Pipeline](https://arxiv.org/abs/1905.05950)||
+|6.4.19|[Semantic Visual Localization](https://arxiv.org/abs/1712.05773)||
+|5.28.19|[AlgoNet: C^∞ Smooth Algorithmic Neural Networks](https://arxiv.org/abs/1905.06886)||
+|5.14.19|[Unsupervised Data Augmentation for Consistency Training](https://arxiv.org/abs/1904.12848)||
+|4.30.19|[Augmented Neural ODEs](https://arxiv.org/abs/1904.01681)||
+|4.9.19|[Wasserstein Dependency Measure for Representation Learning](https://arxiv.org/abs/1903.11780)||
+|4.2.19|[Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](https://arxiv.org/abs/1902.09091)||
+|3.26.19|[Meta Particle Flow for Sequential Bayesian Inference](https://arxiv.org/abs/1902.00640)||
+|3.19.19|[A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912)||
+|3.12.19|[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)||
+|2.26.19|[Language Models are Unsupervised Multitask Learners](https://openai.com/blog/better-language-models/)|[openai](https://github.com/openai/gpt-2)|
+|2.19.19|[Learning to Understand Goal Specifications by Modelling Reward](https://openreview.net/forum?id=H1xsSjC9Ym)||
+|1.29.19|[GamePad: A Learning Environment for Theorem Proving](https://arxiv.org/abs/1806.00608)||
+|1.15.19|[Matrix capsules with EM routing](https://openreview.net/forum?id=HJWLfGWRb&noteId=HJWLfGWRb)||
+|12.4.18|[Optimizing Agent Behavior over Long Time Scales by Transporting Value](https://arxiv.org/abs/1810.06721)||
+|11.27.18|[Embedding Logical Queries on Knowledge Graphs](https://arxiv.org/abs/1806.01445)|[williamleif](https://github.com/williamleif/graphqembed)|
+|11.20.18|[Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)|[openai](https://pathak22.github.io/large-scale-curiosity/)|
+|11.13.18|[Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding](https://arxiv.org/abs/1809.03702)|[nke001](https://github.com/nke001/sparse_attentive_backtracking_release)|
+|11.6.18|[Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268)|[brain-research](https://github.com/brain-research/l2hmc)|
+|10.23.18|[A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)||
+|10.16.18|[MaskGAN: Better Text Generation via Filling in the ...](https://arxiv.org/abs/1801.07736)||
+|10.9.18|[Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://arxiv.org/abs/1809.11096)||
+|10.2.18|[Improving Variational Inference with Inverse Autoregressive Flow](https://arxiv.org/abs/1606.04934)||
+|9.25.18|[Artificial Intelligence - The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)||
+|9.18.18|[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)||
+|9.11.18|[The Variational Homoencoder: Learning to learn high capacity generative models from few examples](https://arxiv.org/abs/1807.08919)|[insperatum](https://github.com/insperatum/vhe)|
+|9.4.18|[Towards Conceptual Compression](https://arxiv.org/abs/1604.08772)|[geosada](https://github.com/geosada/ConvDRAW)|
+|8.28.18|[Vector-based navigation using grid-like representations in artificial agents](https://pdfs.semanticscholar.org/ae62/3c2364ce5eeaf16a7b11932908d1e413f179.pdf)|[deepmind](https://github.com/deepmind/grid-cells)|
+||break in maintaining this file; filled on April 10, 2020||
+| ------ | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
 |8.14.18|[Neural Arithmetic Logic Units](https://arxiv.org/abs/1808.00508)|[gautam1858](https://github.com/gautam1858/Neural-Arithmetic-Logic-Units)|
 |8.7.18|[Neural Scene Representation and Rendering](https://deepmind.com/documents/211/Neural_Scene_Representation_and_Rendering_preprint.pdf)||
