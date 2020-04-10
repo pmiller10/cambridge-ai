@@ -58,6 +58,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |11.13.18|[Sparse Attentive Backtracking: Temporal Credit Assignment Through Reminding](https://arxiv.org/abs/1809.03702)|[nke001](https://github.com/nke001/sparse_attentive_backtracking_release)|
 |11.6.18|[Generalizing Hamiltonian Monte Carlo with Neural Networks](https://arxiv.org/abs/1711.09268)|[brain-research](https://github.com/brain-research/l2hmc)|
 |10.23.18|[A Conceptual Introduction to Hamiltonian Monte Carlo](https://arxiv.org/abs/1701.02434)||
+|10.16.18|[MaskGAN: Better Text Generation via Filling in the ...](https://arxiv.org/abs/1801.07736)||
 
 
 |Filling backwards (from April 9, 2020 down)|||
