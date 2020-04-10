@@ -65,6 +65,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |9.18.18|[Learning deep representations by mutual information estimation and maximization](https://arxiv.org/abs/1808.06670)||
 |9.11.18|[The Variational Homoencoder: Learning to learn high capacity generative models from few examples](https://arxiv.org/abs/1807.08919)|[insperatum](https://github.com/insperatum/vhe)|
 |9.4.18|[Towards Conceptual Compression](https://arxiv.org/abs/1604.08772)|[geosada](https://github.com/geosada/ConvDRAW)|
+|8.28.18|[Vector-based navigation using grid-like representations in artificial agents](https://pdfs.semanticscholar.org/ae62/3c2364ce5eeaf16a7b11932908d1e413f179.pdf)|[deepmind](https://github.com/deepmind/grid-cells)|
 
 
 |Filling backwards (from April 9, 2020 down)|||
