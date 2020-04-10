@@ -47,6 +47,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |4.2.19|[Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](https://arxiv.org/abs/1902.09091)||
 |3.26.19|[Meta Particle Flow for Sequential Bayesian Inference](https://arxiv.org/abs/1902.00640)||
 |3.19.19|[A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/abs/1901.10912)||
+|3.12.19|[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635)||
 |Filling backwards (from April 9, 2020 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
