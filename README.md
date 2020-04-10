@@ -23,6 +23,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 |1.23.20|[Putting An End to End-to-End: Gradient-Isolated Learning of Representations](https://arxiv.org/abs/1905.11786)||
 |1.16.20|[Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257)||
 |12.19.19|[Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)||
+|12.5.19|[On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)||
 |Filling backwards (from April 9 down)|||
 | ------------- | ------------- |------------- |
 |8.21.18|[Universal Transformers](https://arxiv.org/abs/1807.03819)|[tensorflow](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/research/universal_transformer.py)|
