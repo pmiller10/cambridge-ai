@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|5.28.20|[Complexity control by gradient descent in deep networks](https://www.nature.com/articles/s41467-020-14663-9)||
 |5.21.20|[What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/abs/1912.05500)||
 |5.14.20|[COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/abs/1906.05317)||
 |5.7.20|[Write, Execute, Assess: Program Synthesis With a REPL](http://papers.nips.cc/paper/9116-write-execute-assess-program-synthesis-with-a-repl.pdf)|[flxsosa/ProgramSearch](https://github.com/flxsosa/ProgramSearch)|
