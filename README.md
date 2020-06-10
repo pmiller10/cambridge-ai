@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|6.11.20|[SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149)|[locuslab/SATNet](https://github.com/locuslab/SATNet)|
 |6.4.20|[Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799)||
 |5.28.20|[Complexity control by gradient descent in deep networks](https://www.nature.com/articles/s41467-020-14663-9)||
 |5.21.20|[What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/abs/1912.05500)||
