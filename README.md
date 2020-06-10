@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|4.16.20|[Mathematical Reasoning in Latent Space](https://openreview.net/pdf?id=Ske31kBtPr)||
 |4.9.20|[MEMO: A Deep Network for Flexible Combination of Episodic Memories](https://arxiv.org/abs/2001.10913)||
 |4.2.20|[Creating High Resolution Images with a Latent Adversarial Generator](https://arxiv.org/abs/2003.02365)||
 |3.26.20|[Invertible Residual Networks](https://arxiv.org/abs/1811.00995)||
