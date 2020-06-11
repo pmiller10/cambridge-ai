@@ -12,6 +12,15 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|6.25.20|[DreamCoder: Building interpretable hierarchical knowledge representations with wake-sleep Bayesian program learning](https://web.mit.edu/ellisk/www/documents/dreamcoder_with_supplement.pdf)|[ellisk42/ec](https://github.com/ellisk42/ec)|
+|6.18.20|[SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149)|[locuslab/SATNet](https://github.com/locuslab/SATNet)|
+|6.4.20|[Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799)||
+|5.28.20|[Complexity control by gradient descent in deep networks](https://www.nature.com/articles/s41467-020-14663-9)||
+|5.21.20|[What Can Learned Intrinsic Rewards Capture?](https://arxiv.org/abs/1912.05500)||
+|5.14.20|[COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/abs/1906.05317)||
+|5.7.20|[Write, Execute, Assess: Program Synthesis With a REPL](http://papers.nips.cc/paper/9116-write-execute-assess-program-synthesis-with-a-repl.pdf)|[flxsosa/ProgramSearch](https://github.com/flxsosa/ProgramSearch)|
+|4.23.20|[Graph Representations for Higher-Order Logic and Theorem Proving](https://arxiv.org/abs/1905.10006)||
+|4.16.20|[Mathematical Reasoning in Latent Space](https://openreview.net/pdf?id=Ske31kBtPr)||
 |4.9.20|[MEMO: A Deep Network for Flexible Combination of Episodic Memories](https://arxiv.org/abs/2001.10913)||
 |4.2.20|[Creating High Resolution Images with a Latent Adversarial Generator](https://arxiv.org/abs/2003.02365)||
 |3.26.20|[Invertible Residual Networks](https://arxiv.org/abs/1811.00995)||
