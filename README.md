@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|2.11.21|[Revisiting Locally Supervised Learning: an Alternative to End-to-end Training](https://arxiv.org/abs/2101.10832)|[blackfeather-wang/InfoPro-Pytorch](https://github.com/blackfeather-wang/InfoPro-Pytorch)|
 |2.04.21|[Neural Power Units](https://arxiv.org/abs/2006.01681)||
 |1.28.21|[Representation Learning via Invariant Causal Mechanisms](https://arxiv.org/abs/2010.07922)||
 |1.21.21|[γ-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://arxiv.org/abs/2010.14496)|[JannerM/gamma-models](https://github.com/JannerM/gamma-models)|
