@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|4.15.21|[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)||
 |4.01.21|[Synthetic Returns for Long-Term Credit Assignment](https://arxiv.org/abs/2102.12425)||
 |3.25.21|[The Pitfalls of Simplicity Bias in Neural Networks](https://arxiv.org/abs/2006.07710)||
 |3.18.21|[Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)||
