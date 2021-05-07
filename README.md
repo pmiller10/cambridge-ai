@@ -13,6 +13,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
 ||Hopfield Networks cycle ends||
+|12.03.20|[On a model of associative memory with huge storage capacity](https://arxiv.org/abs/1702.01929)||
 |11.19.20|[Dense Associative Memory for Pattern Recognition](https://arxiv.org/abs/1606.01164)||
 |11.12.20|[Neural Networks and Physical Systems with Emergent Collective Computational Abilities (= Hopfield Networks)](https://www.pnas.org/content/pnas/79/8/2554.full.pdf)||
 ||Hopfield Networks cycle of papers - from the original one to Hopfield Networks is All You Need||
