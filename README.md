@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|5.06.21|[Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)|[vsitzmann/siren](https://github.com/vsitzmann/siren)|
 |4.29.21|[How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627)|[lucidrains/glom-pytorch](https://github.com/lucidrains/glom-pytorch) [RedRyan111/GLOM](https://github.com/RedRyan111/GLOM) [ArneBinder/GlomImpl](https://github.com/ArneBinder/GlomImpl)|
 |4.15.21|[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)||
 |4.01.21|[Synthetic Returns for Long-Term Credit Assignment](https://arxiv.org/abs/2102.12425)||
