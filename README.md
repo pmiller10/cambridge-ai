@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|10.29.20|[Memories from patterns: Attractor and integrator networks in the brain](https://fietelabmit.files.wordpress.com/2020/05/mikail_ctsattractor_review-may28draft-1.pdf)||
 |10.15.20|[Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)||
 |10.08.20|[A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)||
 |10.01.20|[It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)|[timoschick/pet](https://github.com/timoschick/pet)|
