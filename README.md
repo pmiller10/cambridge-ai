@@ -12,7 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
-|6.25.20|[DreamCoder: Building interpretable hierarchical knowledge representations with wake-sleep Bayesian program learning](https://web.mit.edu/ellisk/www/documents/dreamcoder_with_supplement.pdf)|[ellisk42/ec](https://github.com/ellisk42/ec)|
+|7.02.20|[DreamCoder: Building interpretable hierarchical knowledge representations with wake-sleep Bayesian program learning](https://web.mit.edu/ellisk/www/documents/dreamcoder_with_supplement.pdf)|[ellisk42/ec](https://github.com/ellisk42/ec)|
 |6.18.20|[SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149)|[locuslab/SATNet](https://github.com/locuslab/SATNet)|
 |6.4.20|[Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799)||
 |5.28.20|[Complexity control by gradient descent in deep networks](https://www.nature.com/articles/s41467-020-14663-9)||
