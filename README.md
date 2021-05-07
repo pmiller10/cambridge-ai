@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|3.04.21|[Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)|[CompVis/taming-transformers](https://github.com/CompVis/taming-transformers)|
 |2.18.21|[Pre-training without Natural Images](https://arxiv.org/abs/2101.08515)|[hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch)|
 |2.11.21|[Revisiting Locally Supervised Learning: an Alternative to End-to-end Training](https://arxiv.org/abs/2101.10832)|[blackfeather-wang/InfoPro-Pytorch](https://github.com/blackfeather-wang/InfoPro-Pytorch)|
 |2.04.21|[Neural Power Units](https://arxiv.org/abs/2006.01681)||
