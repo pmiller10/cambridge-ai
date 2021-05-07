@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|12.17.20|[Learning Associative Inference Using Fast Weight Memory](https://arxiv.org/abs/2011.07831)||
 ||Hopfield Networks cycle ends||
 |12.10.20|[Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)|[ml-jku/hopfield-layers](https://github.com/ml-jku/hopfield-layers)|
 |12.03.20|[On a model of associative memory with huge storage capacity](https://arxiv.org/abs/1702.01929)||
