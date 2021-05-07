@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|9.24.20|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)|https://github.com/facebookresearch/detr|
 |9.17.20|[Gated Linear Networks](https://arxiv.org/abs/1910.01526)||
 |7.23.20|[A Random Matrix Perspective on Mixtures of Nonlinearities for Deep Learning](https://arxiv.org/abs/1912.00827)||
 |7.02.20|[DreamCoder: Building interpretable hierarchical knowledge representations with wake-sleep Bayesian program learning](https://web.mit.edu/ellisk/www/documents/dreamcoder_with_supplement.pdf)|[ellisk42/ec](https://github.com/ellisk42/ec)|
