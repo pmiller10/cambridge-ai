@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|1.14.21|[Improving Generalisation for Temporal Difference Learning: The Successor Representation](http://www.gatsby.ucl.ac.uk/~dayan/papers/d93b.pdf)||
 |12.17.20|[Learning Associative Inference Using Fast Weight Memory](https://arxiv.org/abs/2011.07831)||
 ||Hopfield Networks cycle ends||
 |12.10.20|[Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)|[ml-jku/hopfield-layers](https://github.com/ml-jku/hopfield-layers)|
