@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|1.21.21|[γ-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://arxiv.org/abs/2010.14496)|[JannerM/gamma-models](https://github.com/JannerM/gamma-models)|
 |1.14.21|[Improving Generalisation for Temporal Difference Learning: The Successor Representation](http://www.gatsby.ucl.ac.uk/~dayan/papers/d93b.pdf)||
 |12.17.20|[Learning Associative Inference Using Fast Weight Memory](https://arxiv.org/abs/2011.07831)||
 ||Hopfield Networks cycle ends||
