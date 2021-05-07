@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|10.08.20|[A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)||
 |10.01.20|[It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)|[timoschick/pet](https://github.com/timoschick/pet)|
 |9.24.20|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)|[facebookresearch/detr](https://github.com/facebookresearch/detr)|
 |9.17.20|[Gated Linear Networks](https://arxiv.org/abs/1910.01526)||
