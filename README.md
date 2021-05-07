@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|3.18.21|[Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)||
 |3.11.21|[Meta Learning Backpropagation And Improving It](https://arxiv.org/abs/2012.14905)||
 |3.04.21|[Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)|[CompVis/taming-transformers](https://github.com/CompVis/taming-transformers)|
 |2.18.21|[Pre-training without Natural Images](https://arxiv.org/abs/2101.08515)|[hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch)|
