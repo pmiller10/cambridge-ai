@@ -12,7 +12,36 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
-|6.25.20|[DreamCoder: Building interpretable hierarchical knowledge representations with wake-sleep Bayesian program learning](https://web.mit.edu/ellisk/www/documents/dreamcoder_with_supplement.pdf)|[ellisk42/ec](https://github.com/ellisk42/ec)|
+|5.06.21|[Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)|[vsitzmann/siren](https://github.com/vsitzmann/siren)|
+|4.29.21|[How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627)|[lucidrains/glom-pytorch](https://github.com/lucidrains/glom-pytorch) [RedRyan111/GLOM](https://github.com/RedRyan111/GLOM) [ArneBinder/GlomImpl](https://github.com/ArneBinder/GlomImpl)|
+|4.15.21|[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)||
+|4.01.21|[Synthetic Returns for Long-Term Credit Assignment](https://arxiv.org/abs/2102.12425)||
+|3.25.21|[The Pitfalls of Simplicity Bias in Neural Networks](https://arxiv.org/abs/2006.07710)||
+|3.18.21|[Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)||
+|3.11.21|[Meta Learning Backpropagation And Improving It](https://arxiv.org/abs/2012.14905)||
+|3.04.21|[Taming Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2012.09841)|[CompVis/taming-transformers](https://github.com/CompVis/taming-transformers)|
+|2.18.21|[Pre-training without Natural Images](https://arxiv.org/abs/2101.08515)|[hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch](https://github.com/hirokatsukataoka16/FractalDB-Pretrained-ResNet-PyTorch)|
+|2.11.21|[Revisiting Locally Supervised Learning: an Alternative to End-to-end Training](https://arxiv.org/abs/2101.10832)|[blackfeather-wang/InfoPro-Pytorch](https://github.com/blackfeather-wang/InfoPro-Pytorch)|
+|2.04.21|[Neural Power Units](https://arxiv.org/abs/2006.01681)||
+|1.28.21|[Representation Learning via Invariant Causal Mechanisms](https://arxiv.org/abs/2010.07922)||
+|1.21.21|[γ-Models: Generative Temporal Difference Learning for Infinite-Horizon Prediction](https://arxiv.org/abs/2010.14496)|[JannerM/gamma-models](https://github.com/JannerM/gamma-models)|
+|1.14.21|[Improving Generalisation for Temporal Difference Learning: The Successor Representation](http://www.gatsby.ucl.ac.uk/~dayan/papers/d93b.pdf)||
+|12.17.20|[Learning Associative Inference Using Fast Weight Memory](https://arxiv.org/abs/2011.07831)||
+||Hopfield Networks cycle ends||
+|12.10.20|[Hopfield Networks is All You Need](https://arxiv.org/abs/2008.02217)|[ml-jku/hopfield-layers](https://github.com/ml-jku/hopfield-layers)|
+|12.03.20|[On a model of associative memory with huge storage capacity](https://arxiv.org/abs/1702.01929)||
+|11.19.20|[Dense Associative Memory for Pattern Recognition](https://arxiv.org/abs/1606.01164)||
+|11.12.20|[Neural Networks and Physical Systems with Emergent Collective Computational Abilities (= "the Hopfield Networks paper")](https://www.pnas.org/content/pnas/79/8/2554.full.pdf)||
+||Hopfield Networks cycle of papers - from the original paper on Hopfield networks to "Hopfield Networks is All You Need"||
+|11.05.20|[Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)|[NVlabs/stylegan2-ada](https://github.com/NVlabs/stylegan2-ada)|
+|10.29.20|[Memories from patterns: Attractor and integrator networks in the brain](https://fietelabmit.files.wordpress.com/2020/05/mikail_ctsattractor_review-may28draft-1.pdf)||
+|10.15.20|[Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)||
+|10.08.20|[A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)||
+|10.01.20|[It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118)|[timoschick/pet](https://github.com/timoschick/pet)|
+|9.24.20|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)|[facebookresearch/detr](https://github.com/facebookresearch/detr)|
+|9.17.20|[Gated Linear Networks](https://arxiv.org/abs/1910.01526)||
+|7.23.20|[A Random Matrix Perspective on Mixtures of Nonlinearities for Deep Learning](https://arxiv.org/abs/1912.00827)||
+|7.02.20|[DreamCoder: Building interpretable hierarchical knowledge representations with wake-sleep Bayesian program learning](https://web.mit.edu/ellisk/www/documents/dreamcoder_with_supplement.pdf)|[ellisk42/ec](https://github.com/ellisk42/ec)|
 |6.18.20|[SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver](https://arxiv.org/abs/1905.12149)|[locuslab/SATNet](https://github.com/locuslab/SATNet)|
 |6.4.20|[Adaptive Attention Span in Transformers](https://arxiv.org/abs/1905.07799)||
 |5.28.20|[Complexity control by gradient descent in deep networks](https://www.nature.com/articles/s41467-020-14663-9)||
