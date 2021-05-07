@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|11.05.20|[Training Generative Adversarial Networks with Limited Data](https://arxiv.org/abs/2006.06676)|[NVlabs/stylegan2-ada](https://github.com/NVlabs/stylegan2-ada)|
 |10.29.20|[Memories from patterns: Attractor and integrator networks in the brain](https://fietelabmit.files.wordpress.com/2020/05/mikail_ctsattractor_review-may28draft-1.pdf)||
 |10.15.20|[Entities as Experts: Sparse Memory Access with Entity Supervision](https://arxiv.org/abs/2004.07202)||
 |10.08.20|[A Primer in BERTology: What we know about how BERT works](https://arxiv.org/abs/2002.12327)||
