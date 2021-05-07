@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|4.01.21|[Synthetic Returns for Long-Term Credit Assignment](https://arxiv.org/abs/2102.12425)||
 |3.25.21|[The Pitfalls of Simplicity Bias in Neural Networks](https://arxiv.org/abs/2006.07710)||
 |3.18.21|[Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733)||
 |3.11.21|[Meta Learning Backpropagation And Improving It](https://arxiv.org/abs/2012.14905)||
