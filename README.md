@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|8.05.21|[Learning Compositional Rules via Neural Program Synthesis](https://arxiv.org/abs/2003.05562)|[mtensor/rulesynthesis](https://github.com/mtensor/rulesynthesis)|
 |6.24.21|[Thinking Like Transformers](https://arxiv.org/abs/2106.06981)||
 |6.17.21|[Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation](https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/full)||
 |6.10.21|[Unsupervised Learning by Competing Hidden Units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf)||
