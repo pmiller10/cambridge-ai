@@ -12,6 +12,16 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|9.09.21|[Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)||
+|8.19.21|[Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)|[deepmind/perceiver](https://github.com/deepmind/deepmind-research/tree/master/perceiver)|
+|8.12.21|[Reward is enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862)||
+|8.05.21|[Learning Compositional Rules via Neural Program Synthesis](https://arxiv.org/abs/2003.05562)|[mtensor/rulesynthesis](https://github.com/mtensor/rulesynthesis)|
+|6.24.21|[Thinking Like Transformers](https://arxiv.org/abs/2106.06981)||
+|6.17.21|[Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation](https://www.frontiersin.org/articles/10.3389/fncom.2017.00024/full)||
+|6.10.21|[Unsupervised Learning by Competing Hidden Units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf)||
+|5.27.21|[Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)||
+|5.20.21|[Memory Based Trajectory-conditioned Policies for Learning from Sparse Rewards](https://arxiv.org/abs/1907.10247)||
+|5.13.21|[Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)||
 |5.06.21|[Implicit Neural Representations with Periodic Activation Functions](https://arxiv.org/abs/2006.09661)|[vsitzmann/siren](https://github.com/vsitzmann/siren)|
 |4.29.21|[How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627)|[lucidrains/glom-pytorch](https://github.com/lucidrains/glom-pytorch) [RedRyan111/GLOM](https://github.com/RedRyan111/GLOM) [ArneBinder/GlomImpl](https://github.com/ArneBinder/GlomImpl)|
 |4.15.21|[Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)||
