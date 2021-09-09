@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|6.10.21|[Unsupervised Learning by Competing Hidden Units](https://www.pnas.org/content/pnas/116/16/7723.full.pdf)||
 |5.27.21|[Pay Attention to MLPs](https://arxiv.org/abs/2105.08050)||
 |5.20.21|[Memory Based Trajectory-conditioned Policies for Learning from Sparse Rewards](https://arxiv.org/abs/1907.10247)||
 |5.13.21|[Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)||
