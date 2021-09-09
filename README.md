@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|9.09.21|[Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)||
 |8.19.21|[Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)|[deepmind/perceiver](https://github.com/deepmind/deepmind-research/tree/master/perceiver)|
 |8.12.21|[Reward is enough](https://www.sciencedirect.com/science/article/pii/S0004370221000862)||
 |8.05.21|[Learning Compositional Rules via Neural Program Synthesis](https://arxiv.org/abs/2003.05562)|[mtensor/rulesynthesis](https://github.com/mtensor/rulesynthesis)|
