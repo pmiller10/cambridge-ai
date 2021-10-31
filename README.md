@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|9.30.21|[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)|[princeton-vl/RAFT](https://github.com/princeton-vl/RAFT)|
 |9.16.21|[Bootstrapped Meta-Learning](https://arxiv.org/abs/2109.04504)||
 |9.09.21|[Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732)||
 |8.19.21|[Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)|[deepmind/perceiver](https://github.com/deepmind/deepmind-research/tree/master/perceiver)|
