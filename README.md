@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|10.21.21|[CoBERL: Contrastive BERT for Reinforcement Learning](https://arxiv.org/abs/2107.05431)||
 |10.14.21|[WarpedGANSpace: Finding non-linear RBF paths in GAN latent space](https://arxiv.org/abs/2109.13357)|[chi0tzp/WarpedGANSpace](https://github.com/chi0tzp/WarpedGANSpace)|
 |10.06.21|[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)|[princeton-vl/RAFT](https://github.com/princeton-vl/RAFT)|
 |9.16.21|[Bootstrapped Meta-Learning](https://arxiv.org/abs/2109.04504)||
