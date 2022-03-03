@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|2.17.22|[Divide and Contrast: Self-supervised Learning from Uncurated Data](https://arxiv.org/abs/2105.08054)||
 |2.10.22|[Investigating Human Priors for Playing Video Games](https://arxiv.org/abs/1802.10217)|[rach0012/humanRL_prior_games](https://github.com/rach0012/humanRL_prior_games)|
 |1.27.22|[data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555)|[pytorch/data2vec](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)|
 |1.20.22|[Consistent Video Depth Estimation](https://arxiv.org/abs/2004.15021)|[facebookresearch/consistent_depth](https://github.com/facebookresearch/consistent_depth)|
