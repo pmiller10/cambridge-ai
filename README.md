@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|1.13.22|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)||
 |12.02.21|[Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)||
 |11.18.21|[(StyleGan3) Alias-Free Generative Adversarial Networks](https://arxiv.org/abs/2106.12423)|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|
 |11.04.21|[Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)||
