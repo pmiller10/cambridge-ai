@@ -12,6 +12,11 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|2.17.22|[Divide and Contrast: Self-supervised Learning from Uncurated Data](https://arxiv.org/abs/2105.08054)||
+|2.10.22|[Investigating Human Priors for Playing Video Games](https://arxiv.org/abs/1802.10217)|[rach0012/humanRL_prior_games](https://github.com/rach0012/humanRL_prior_games)|
+|1.27.22|[data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555)|[pytorch/data2vec](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)|
+|1.20.22|[Consistent Video Depth Estimation](https://arxiv.org/abs/2004.15021)|[facebookresearch/consistent_depth](https://github.com/facebookresearch/consistent_depth)|
+|1.13.22|[Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)||
 |12.02.21|[Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)||
 |11.18.21|[(StyleGan3) Alias-Free Generative Adversarial Networks](https://arxiv.org/abs/2106.12423)|[NVlabs/stylegan3](https://github.com/NVlabs/stylegan3)|
 |11.04.21|[Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810)||
