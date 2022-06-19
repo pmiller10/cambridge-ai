@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|5.26.22|[Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572)||
 |4.28.22|[A Modern Self-Referential Weight Matrix That Learns to Modify Itself](https://arxiv.org/abs/2202.05780)|[IDSIA/modern-srwm](https://github.com/IDSIA/modern-srwm)|
 |4.14.22|[Hierarchical Perceiver](https://arxiv.org/abs/2202.10890)||
 |3.24.22|[Dual Diffusion Implicit Bridges for Image-to-Image Translation](https://arxiv.org/abs/2203.08382)||
