@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|3.24.22|[Dual Diffusion Implicit Bridges for Image-to-Image Translation](https://arxiv.org/abs/2203.08382)||
 |3.10.22|[Understanding Generalization through Visualizations](https://arxiv.org/abs/1906.03291)|[wronnyhuang/gen-viz](https://github.com/wronnyhuang/gen-viz)|
 |2.17.22|[Divide and Contrast: Self-supervised Learning from Uncurated Data](https://arxiv.org/abs/2105.08054)||
 |2.10.22|[Investigating Human Priors for Playing Video Games](https://arxiv.org/abs/1802.10217)|[rach0012/humanRL_prior_games](https://github.com/rach0012/humanRL_prior_games)|
