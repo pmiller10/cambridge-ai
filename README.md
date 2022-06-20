@@ -12,6 +12,12 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|6.16.22|[Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412)|[google-research/sam](https://github.com/google-research/sam)|
+|5.26.22|[Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572)||
+|4.28.22|[A Modern Self-Referential Weight Matrix That Learns to Modify Itself](https://arxiv.org/abs/2202.05780)|[IDSIA/modern-srwm](https://github.com/IDSIA/modern-srwm)|
+|4.14.22|[Hierarchical Perceiver](https://arxiv.org/abs/2202.10890)||
+|3.24.22|[Dual Diffusion Implicit Bridges for Image-to-Image Translation](https://arxiv.org/abs/2203.08382)||
+|3.10.22|[Understanding Generalization through Visualizations](https://arxiv.org/abs/1906.03291)|[wronnyhuang/gen-viz](https://github.com/wronnyhuang/gen-viz)|
 |2.17.22|[Divide and Contrast: Self-supervised Learning from Uncurated Data](https://arxiv.org/abs/2105.08054)||
 |2.10.22|[Investigating Human Priors for Playing Video Games](https://arxiv.org/abs/1802.10217)|[rach0012/humanRL_prior_games](https://github.com/rach0012/humanRL_prior_games)|
 |1.27.22|[data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://arxiv.org/abs/2202.03555)|[pytorch/data2vec](https://github.com/pytorch/fairseq/tree/main/examples/data2vec)|
