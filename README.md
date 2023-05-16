@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|7.14.22|[Learning Iterative Reasoning through Energy Minimization](https://arxiv.org/abs/2206.15448)|[yilundu/irem_code_release](https://github.com/yilundu/irem_code_release)|
 |6.16.22|[Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412)|[google-research/sam](https://github.com/google-research/sam)|
 |5.26.22|[Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572)||
 |4.28.22|[A Modern Self-Referential Weight Matrix That Learns to Modify Itself](https://arxiv.org/abs/2202.05780)|[IDSIA/modern-srwm](https://github.com/IDSIA/modern-srwm)|
