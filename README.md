@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|4.06.23|[Generating Sequences by Learning to Self-Correct](https://arxiv.org/abs/2211.00053)||
 |3.30.23|[The Capacity for Moral Self-Correction in Large Language Models](https://arxiv.org/abs/2302.07459)||
 |3.23.23|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)|[facebookresearch/llama](https://github.com/facebookresearch/llama) and [huggingface/llama](https://github.com/huggingface/transformers/tree/main/src/transformers/models/llama)|
 |3.16.23|[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045)||
