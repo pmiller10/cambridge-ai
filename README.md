@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|2.09.23|[Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399)|[Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)|
 |1.26.23|[Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)||
 |1.12.23|[The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/abs/2212.13345)||
 |12.08.22|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)||
