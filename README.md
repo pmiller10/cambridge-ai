@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|3.16.23|[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045)||
 |3.02.23|[Guiding Pretraining in Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2302.06692)||
 |2.23.23|[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)||
 |2.16.23|[What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/forum?id=0g0X4H8yN4I)|[ekinakyurek/incontext](https://github.com/ekinakyurek/google-research/tree/master/incontext)|
