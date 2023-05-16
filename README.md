@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|5.04.23|[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)|[HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces)|
 |4.06.23|[Generating Sequences by Learning to Self-Correct](https://arxiv.org/abs/2211.00053)||
 |3.30.23|[The Capacity for Moral Self-Correction in Large Language Models](https://arxiv.org/abs/2302.07459)||
 |3.23.23|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)|[facebookresearch/llama](https://github.com/facebookresearch/llama) and [huggingface/llama](https://github.com/huggingface/transformers/tree/main/src/transformers/models/llama)|
