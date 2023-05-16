@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|1.12.23|[The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/abs/2212.13345)||
 |12.08.22|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)||
 |9.22.22|[Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)||
 |9.08.22|[Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)||
