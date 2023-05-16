@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|3.02.23|[Guiding Pretraining in Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2302.06692)||
 |2.23.23|[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)||
 |2.16.23|[What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/forum?id=0g0X4H8yN4I)|[ekinakyurek/incontext](https://github.com/ekinakyurek/google-research/tree/master/incontext)|
 |2.09.23|[Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399)|[Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)|
