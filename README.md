@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|5.18.23|[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)||
 |5.11.23|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) and [huggingface/blog/lora](https://huggingface.co/blog/lora)|
 |5.04.23|[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)|[HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces)|
 |4.06.23|[Generating Sequences by Learning to Self-Correct](https://arxiv.org/abs/2211.00053)||
