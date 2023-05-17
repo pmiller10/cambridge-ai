@@ -12,6 +12,25 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|5.18.23|[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)||
+|5.11.23|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) and [huggingface/blog/lora](https://huggingface.co/blog/lora)|
+|5.04.23|[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)|[HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces)|
+|4.06.23|[Generating Sequences by Learning to Self-Correct](https://arxiv.org/abs/2211.00053)||
+|3.30.23|[The Capacity for Moral Self-Correction in Large Language Models](https://arxiv.org/abs/2302.07459)||
+|3.23.23|[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)|[facebookresearch/llama](https://github.com/facebookresearch/llama) and [huggingface/llama](https://github.com/huggingface/transformers/tree/main/src/transformers/models/llama)|
+|3.16.23|[Language Is Not All You Need: Aligning Perception with Language Models](https://arxiv.org/abs/2302.14045)||
+|3.02.23|[Guiding Pretraining in Reinforcement Learning with Large Language Models](https://arxiv.org/abs/2302.06692)||
+|2.23.23|[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)||
+|2.16.23|[What learning algorithm is in-context learning? Investigations with linear models](https://openreview.net/forum?id=0g0X4H8yN4I)|[ekinakyurek/incontext](https://github.com/ekinakyurek/google-research/tree/master/incontext)|
+|2.09.23|[Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://arxiv.org/abs/2106.04399)|[Tutorial](https://milayb.notion.site/The-GFlowNet-Tutorial-95434ef0e2d94c24aab90e69b30be9b3)|
+|1.26.23|[Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)||
+|1.12.23|[The Forward-Forward Algorithm: Some Preliminary Investigations](https://arxiv.org/abs/2212.13345)||
+|12.08.22|[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)||
+|9.22.22|[Git Re-Basin: Merging Models modulo Permutation Symmetries](https://arxiv.org/abs/2209.04836)||
+|9.08.22|[Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)||
+|8.25.22|[A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)||
+|8.18.22|[Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)|[microsoft/mup](https://github.com/microsoft/mup)|
+|7.14.22|[Learning Iterative Reasoning through Energy Minimization](https://arxiv.org/abs/2206.15448)|[yilundu/irem_code_release](https://github.com/yilundu/irem_code_release)|
 |6.16.22|[Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412)|[google-research/sam](https://github.com/google-research/sam)|
 |5.26.22|[Neural Tangent Kernel: Convergence and Generalization in Neural Networks](https://arxiv.org/abs/1806.07572)||
 |4.28.22|[A Modern Self-Referential Weight Matrix That Learns to Modify Itself](https://arxiv.org/abs/2202.05780)|[IDSIA/modern-srwm](https://github.com/IDSIA/modern-srwm)|
