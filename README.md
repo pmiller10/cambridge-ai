@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|9.28.23|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)|[huggingface/transformers/examples/research_projects/rag](https://github.com/huggingface/transformers/tree/main/examples/research_projects/rag)|
 |9.14.23|[Gradient-based Adversarial Attacks against Text Transformers](https://arxiv.org/abs/2104.13733)|[facebookresearch/text-adversarial-attack](https://github.com/facebookresearch/text-adversarial-attack)|
 |8.10.23|[Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)|[noahshinn024/reflexion](https://github.com/noahshinn024/reflexion)|
 |6.15.23|[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)|[BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)|
