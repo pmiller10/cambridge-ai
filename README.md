@@ -12,6 +12,11 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|11.09.23|[Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)|[brendenlake/MLC](https://github.com/brendenlake/MLC) and [brendenlake/MLC-ML](https://github.com/brendenlake/MLC-ML)|
+|9.28.23|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)|[huggingface/transformers/examples/research_projects/rag](https://github.com/huggingface/transformers/tree/main/examples/research_projects/rag)|
+|9.14.23|[Gradient-based Adversarial Attacks against Text Transformers](https://arxiv.org/abs/2104.13733)|[facebookresearch/text-adversarial-attack](https://github.com/facebookresearch/text-adversarial-attack)|
+|8.10.23|[Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)|[noahshinn024/reflexion](https://github.com/noahshinn024/reflexion)|
+|6.15.23|[RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)|[BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)|
 |5.18.23|[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)||
 |5.11.23|[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) and [huggingface/blog/lora](https://huggingface.co/blog/lora)|
 |5.04.23|[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396)|[HazyResearch/state-spaces](https://github.com/HazyResearch/state-spaces)|
