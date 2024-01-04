@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|12.07.23|[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)||
 |11.30.23|[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079)|[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)|
 |11.16.23|[LILO: Learning Interpretable Libraries by Compressing and Documenting Code](https://arxiv.org/abs/2310.19791)|[gabegrand/lilo](https://github.com/gabegrand/lilo)|
 |11.09.23|[Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)|[brendenlake/MLC](https://github.com/brendenlake/MLC) and [brendenlake/MLC-ML](https://github.com/brendenlake/MLC-ML)|
