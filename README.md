@@ -12,6 +12,10 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|1.04.24|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)|[state-spaces/mamba](https://github.com/state-spaces/mamba)|
+|12.07.23|[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)||
+|11.30.23|[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079)|[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)|
+|11.16.23|[LILO: Learning Interpretable Libraries by Compressing and Documenting Code](https://arxiv.org/abs/2310.19791)|[gabegrand/lilo](https://github.com/gabegrand/lilo)|
 |11.09.23|[Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)|[brendenlake/MLC](https://github.com/brendenlake/MLC) and [brendenlake/MLC-ML](https://github.com/brendenlake/MLC-ML)|
 |9.28.23|[Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.11401)|[huggingface/transformers/examples/research_projects/rag](https://github.com/huggingface/transformers/tree/main/examples/research_projects/rag)|
 |9.14.23|[Gradient-based Adversarial Attacks against Text Transformers](https://arxiv.org/abs/2104.13733)|[facebookresearch/text-adversarial-attack](https://github.com/facebookresearch/text-adversarial-attack)|
