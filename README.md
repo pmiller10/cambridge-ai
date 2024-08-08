@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|4.10.24|[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)||
 |3.28.24|[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)||
 |3.21.24|[Humanoid Locomotion as Next Token Prediction](https://arxiv.org/abs/2402.19469)||
 |3.14.24|[TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708)|[prateeky2806/ties-merging](https://github.com/prateeky2806/ties-merging)|
