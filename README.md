@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|2.8.24|[Merging Models with Fisher-Weighted Averaging](https://arxiv.org/abs/2111.09832)|[arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)|
 |2.1.24|[Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)||
 |1.18.24|[Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)||
 |1.04.24|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)|[state-spaces/mamba](https://github.com/state-spaces/mamba)|
