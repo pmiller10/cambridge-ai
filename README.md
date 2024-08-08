@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|8.12.24|[Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)|[openai/sparse_autoencoder](https://github.com/openai/sparse_autoencoder)|
 |4.10.24|[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)||
 |3.28.24|[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)||
 |3.21.24|[Humanoid Locomotion as Next Token Prediction](https://arxiv.org/abs/2402.19469)||
