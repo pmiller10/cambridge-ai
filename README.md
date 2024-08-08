@@ -12,6 +12,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|3.14.24|[TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708)|[prateeky2806/ties-merging](https://github.com/prateeky2806/ties-merging)|
 |2.8.24|[Merging Models with Fisher-Weighted Averaging](https://arxiv.org/abs/2111.09832)|[arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)|
 |2.1.24|[Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)||
 |1.18.24|[Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)||
