@@ -12,6 +12,16 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
+|8.26.24|[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292)|[SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)|
+|8.19.24|[Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)|[SonyResearch/micro_diffusion (pending)](https://github.com/SonyResearch/micro_diffusion)|
+|8.12.24|[Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)|[openai/sparse_autoencoder](https://github.com/openai/sparse_autoencoder)|
+|4.10.24|[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)||
+|3.28.24|[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)||
+|3.21.24|[Humanoid Locomotion as Next Token Prediction](https://arxiv.org/abs/2402.19469)||
+|3.14.24|[TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708)|[prateeky2806/ties-merging](https://github.com/prateeky2806/ties-merging)|
+|2.8.24|[Merging Models with Fisher-Weighted Averaging](https://arxiv.org/abs/2111.09832)|[arcee-ai/mergekit](https://github.com/arcee-ai/mergekit)|
+|2.1.24|[Averaging Weights Leads to Wider Optima and Better Generalization](https://arxiv.org/abs/1803.05407)||
+|1.18.24|[Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)||
 |1.04.24|[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)|[state-spaces/mamba](https://github.com/state-spaces/mamba)|
 |12.07.23|[Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)||
 |11.30.23|[3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079)|[graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)|
