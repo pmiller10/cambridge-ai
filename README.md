@@ -13,7 +13,7 @@ The schedule of readings for the SIPB/Cambridge AI Deep Learning Group If you ha
 | Date  | Paper | Implementation |
 | ------------- | ------------- |------------- |
 |8.26.24|[The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery](https://www.arxiv.org/abs/2408.06292)|[SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist)|
-|8.19.24|[Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)|[SonyResearch/micro_diffusion pending](https://github.com/SonyResearch/micro_diffusion)|
+|8.19.24|[Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget](https://arxiv.org/abs/2407.15811)|[SonyResearch/micro_diffusion (pending)](https://github.com/SonyResearch/micro_diffusion)|
 |8.12.24|[Scaling and evaluating sparse autoencoders](https://arxiv.org/abs/2406.04093)|[openai/sparse_autoencoder](https://github.com/openai/sparse_autoencoder)|
 |4.10.24|[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)||
 |3.28.24|[Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)||
